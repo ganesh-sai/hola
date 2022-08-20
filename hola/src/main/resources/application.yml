@@ -1,0 +1,7 @@
+helloapp:
+  saying: Guten Tag aus
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
