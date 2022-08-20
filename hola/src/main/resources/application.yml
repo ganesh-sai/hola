@@ -5,3 +5,9 @@ management:
     web:
       exposure:
         include: '*'
+greeting:
+  saying: Hola Spring Boot
+  backendServiceHost: localhost
+  backendServicePort: 8080
+server:
+  port: 9090
